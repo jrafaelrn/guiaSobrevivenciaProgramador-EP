@@ -12,8 +12,8 @@
 
 
 - Containers e Cloud
-    - 
-    - 
+    - Criado arquivo `Dockerfile`
+    - Inicialmente foi criado o `Dockerfile`, os arquivos do projeto foram copiados para dentro do container, em seguida as dependências do NodeJS foram instaladas e a aplicação foi inicializada. Para expor a porta 3000 do container para a porta 8080 do computador hospedeiro foi usado o comando `docker run -p 8080:3000 ep1`. Com isso, a página web foi aberta no navegador do hospedeiro com sucesso, assim como os outros links que estão na página.
 
 
 - Shell
