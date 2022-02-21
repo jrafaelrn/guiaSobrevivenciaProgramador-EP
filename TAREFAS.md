@@ -21,7 +21,4 @@
 
 
 - Tarefas bônus
-    - 
-    - 
-    - 
-    - 
+    - [GitHub](https://github.com/jrafaelrn/guiaSobrevivenciaProgramador-EP)
