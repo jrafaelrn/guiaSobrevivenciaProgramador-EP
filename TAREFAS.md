@@ -7,8 +7,8 @@
 
 
 - Metaprogramação
-    - 
-    - 
+    - "jest src/controllers/homeController.test.js"
+    - Teste de renderização da Página de Convocados
 
 
 - Containers e Cloud
