@@ -17,7 +17,7 @@
 
 
 - Shell
-    - 
+    - Execute o script `ep1.sh` para gerar a imagem Docker e subir um container a partir dessa imagem. Esse script deve permitir que o usuário escolha em qual porta do computador hospedeiro a aplicação deve rodar.
 
 
 - Tarefas bônus
